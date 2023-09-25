@@ -1,0 +1,16 @@
+/* DateTimeDisplay.css */
+.datetime-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .datetime-heading {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .datetime-text {
+    font-size: 18px;
+    color: #333;
+  }
+  
