@@ -1,0 +1,44 @@
+.main-container{
+
+}
+.imagebanner{
+  width: 1900px;
+  height: 800px;
+  background-image:url('https://res.cloudinary.com/dmtzvxa53/image/upload/v1695615888/school-manag_jturh2.png');
+  background-repeat: repeat-y;
+  background-repeat: repeat-x;
+  /* opacity: 80%; */
+}
+.content-box{
+  width: 30%;
+  position: absolute;
+  top: 30%;
+  right: 6%;
+  
+}
+.content-box-bg{
+  border: 1px solid #fff;
+  text-align: center;
+  background: #0000005e;
+  width: 22%;
+  position: absolute;
+  top: 40%;
+  text-align: center;
+  right: 15%;
+
+  display: block;
+  font-weight: bold;
+  margin-block-end: 1.33em;
+  margin-block-start: 1.33em;
+  font-size:x-large;
+  font-family:'Courier New', Courier, monospace
+}
+.content-box.h4{
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.content-box-top{
+  color: #ffffff;
+  padding: 10px;
+}
+
