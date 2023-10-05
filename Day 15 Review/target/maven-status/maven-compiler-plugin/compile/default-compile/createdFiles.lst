@@ -1,0 +1,9 @@
+com\nithin\studentinfomanagement\Controller\copy\SubjectController.class
+com\nithin\studentinfomanagement\Service\SubjectService.class
+com\nithin\studentinfomanagement\Repository\UserRepo.class
+com\nithin\studentinfomanagement\Controller\copy\UserController.class
+com\nithin\studentinfomanagement\Model\Subject.class
+com\nithin\studentinfomanagement\Service\UserService.class
+com\nithin\studentinfomanagement\Model\User.class
+com\nithin\studentinfomanagement\StudentinfomanagementApplication.class
+com\nithin\studentinfomanagement\Repository\SubjectRepository.class
